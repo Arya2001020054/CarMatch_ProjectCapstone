@@ -49,5 +49,5 @@ Berikut langkah-langkah dalam pembuatan chatbot CarMatch ini:<br>
 <img width="947" alt="UIChatbot" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/e2bfed40-3b12-440f-9fb9-cced5e4f4f14">
 <img width="324" alt="ViewChatbot" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/8b2cb5b7-e2c4-4517-9d2c-1191d016f260">
 <br><br>
-Berikut tampilan chatbot yang telah dideploy kedalam Website : <a href="https://github.com/Arya2001020054/CarMatch_ProjectCapstone">CarMatch</a>
+Berikut tampilan chatbot yang telah dideploy kedalam Website : <a href="https://arya2001020054.github.io/CarMatch_ProjectCapstone/">CarMatch</a>
 
