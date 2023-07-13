@@ -30,7 +30,7 @@ Berikut langkah-langkah dalam pembuatan chatbot CarMatch ini:<br>
 <img width="960" alt="Dialog Respon" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/8dd8427e-9280-4179-a477-1e8d61ec8e88">
 <br>
 6. Lalu lakukan percobaan sebelum ingin mendeploynya, dengan menekan "Try it" yang ada pada Sisi kanan atas layar<br>
-![Try it Button](https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/2c5c5b60-8eef-445f-90ef-4d42a49c337d)
+<img width="366" alt="Try It Fitur" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/2c5c5b60-8eef-445f-90ef-4d42a49c337d">
 <img width="366" alt="Try It Fitur" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/4c32f7a0-7ad9-4b3c-b8fd-f7a7ad0986a7">
 <br>
 7. Setelah semuanya siap, sekarang waktunya untuk mendeploy kedalam website dengan memilih menu Deploy>Environment>Web Chat<br>
