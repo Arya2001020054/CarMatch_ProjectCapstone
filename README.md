@@ -30,17 +30,22 @@ Berikut langkah-langkah dalam pembuatan chatbot CarMatch ini:<br>
 <img width="960" alt="Dialog Respon" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/8dd8427e-9280-4179-a477-1e8d61ec8e88">
 <br>
 6. Lalu lakukan percobaan sebelum ingin mendeploynya, dengan menekan "Try it" yang ada pada Sisi kanan atas layar<br>
-<img width="366" alt="Try It Fitur" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/2c5c5b60-8eef-445f-90ef-4d42a49c337d">
+<img width="366" alt="Try It Fitur" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/2c5c5b60-8eef-445f-90ef-4d42a49c337d"><br>
 <img width="366" alt="Try It Fitur" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/4c32f7a0-7ad9-4b3c-b8fd-f7a7ad0986a7">
 <br>
 7. Setelah semuanya siap, sekarang waktunya untuk mendeploy kedalam website dengan memilih menu Deploy>Environment>Web Chat<br>
+<img width="960" alt="Deploy" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/4ce8a1de-7962-42fb-9398-1620e76bd143">
+<br>
 8. Kita dapat mengedit warna tampilan chatbot dan juga profile foto chatbot<br>
-
+<img width="960" alt="Customize UI" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/e1a87c56-4b33-4c9d-ba2d-e1ae36d49a70">
 <br>
 9. Setelah tampilan sesuai seperti yang diinginkan, klik "Embed" untuk mendapatkan kode yang dapat terhubung dengan website yang kita buat<br>
-
+<img width="960" alt="Embed Code" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/00ec70c8-69d6-4fca-9f1d-71fee6bcc24e">
 <br>
 10. Masukkan kode embed kedalam kode html<br>
-
+<img width="667" alt="EmbedApplyCode" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/31031c11-7c45-4eea-b83c-804e43aa7ce1">
 <br>
 11. Chatbot pun siap untuk digunakan<br>
+<img width="947" alt="UIChatbot" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/e2bfed40-3b12-440f-9fb9-cced5e4f4f14">
+<img width="324" alt="ViewChatbot" src="https://github.com/Arya2001020054/CarMatch_ProjectCapstone/assets/104332660/8b2cb5b7-e2c4-4517-9d2c-1191d016f260">
+
